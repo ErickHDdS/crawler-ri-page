@@ -63,7 +63,7 @@ O desenvolvimento deste projeto proporcionou uma compreensão aprofundada sobre:
 
 ## Considerações Finais
 
-O Crawler-Bot representa uma implementação educacional robusta de um sistema de crawler, respeitando as normas éticas de coleta de dados web e demonstrando os conceitos fundamentais da disciplina de Recuperação da Informação.
+O LER_Bot representa uma implementação educacional robusta de um sistema de crawler, respeitando as normas éticas de coleta de dados web e demonstrando os conceitos fundamentais da disciplina de Recuperação da Informação.
 
 ---
 
