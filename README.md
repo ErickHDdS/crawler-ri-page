@@ -1,4 +1,4 @@
-# Crawler-Bot
+# LER_Bot
 
 Este bot foi desenvolvido a partir do [repositório fornecido](https://github.com/daniel-hasan/ri-crawler) pelo professor [Daniel Hasan](https://github.com/daniel-hasan) da disciplina de Recuperação da Informação.
 
@@ -6,9 +6,9 @@ Este bot foi desenvolvido a partir do [repositório fornecido](https://github.co
 
 ## Integrantes do Grupo
 
-- **Erick Henrique**
-- **Lucas Cota**
-- **Rosane**
+- **Erick Henrique (erickhenriquedds@gmail.com)**
+- **Lucas Cota (lucascdornelas@gmail.com)**
+- **Rosane Silva (rosanesfaraujo@gmail.com)**
 
 ## Como funciona?
 
